@@ -1,16 +1,22 @@
-## Hi there 👋
+# 庄可茵 · 金融科技 2026 级
 
-<!--
-**zhuangkeyin/zhuangkeyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+广东金融学院（广州校区）金融科技专业。
+目标岗位：金融科技产品经理（银行零售数字化方向）。
 
-Here are some ideas to get you started:
+## 在学什么
 
-- 🔭 I’m currently working on ...我是庄可茵·广东金融学院·金融科技·2026级
-- 🌱 I’m currently learning ...我正在从零开始学Python数据分析
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...联系我：nacl_2026@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 数据分析：pandas、数据清洗、可视化
+- SQL 取数、财务建模（入门阶段）
+- 金融业务基础：零售银行、支付与理财
+
+## 在做什么
+
+- 第 17 届全国大学生市场调查与分析大赛：研究设计、问卷与抽样、数据清洗与建模
+- 90 天启动打卡：每日 Python 练习，代码与笔记同步在本仓库
+
+## 补强顺序（对应 8 份 JD 高频要求）
+
+- [x] Python 入门（进行中 → 90 天打卡）
+- [ ] SQL 取数（大二上）
+- [ ] 财务建模（大二上）
+- [ ] 沟通表达：工管杯辩论赛（已报名）
